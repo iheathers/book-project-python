@@ -1,0 +1,3 @@
+AI,Bot,0
+Heha,Hehaha,1
+Another book,Another author,0
